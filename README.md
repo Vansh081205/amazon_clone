@@ -28,7 +28,7 @@ JavaScript	Dynamic UI interactions
 Render	Deployment
 🚀 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/Goyam02/Amazon-Clone.git
+git clone https://github.com/vansh081205/amazon-clone.git
 cd Amazon-Clone
 2️⃣ Create Virtual Environment & Install Dependencies
 python -m venv venv
