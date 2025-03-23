@@ -87,8 +87,7 @@ Submit a Pull Request 🚀
 This project is licensed under the MIT License. See the LICENSE file for details.
 💬 Contact
 For any queries, feel free to reach out!
-📧 Email: goyamjain02@gmail.com
-🐦 Twitter: @goyamjain02
-📌 GitHub: Goyam02
+📧 Email: VANSH081205@GMAIL.COM
+📌 GitHub: VANSH081205
 
 ⭐ If you found this project useful, don't forget to give it a star! ⭐
